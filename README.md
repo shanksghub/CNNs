@@ -16,7 +16,9 @@ https://www.tensorflow.org/tutorials/keras/classification
 
 
 
+
 Videos -
+
 https://www.youtube.com/watch?v=6aF9sJrzxaM
 https://www.youtube.com/watch?v=P0fMwA3X5KI
 
